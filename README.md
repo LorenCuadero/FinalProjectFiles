@@ -1,5 +1,5 @@
-Group 7 Members
+Group 7 Collaborators
 
-John Rey Calesa
-Lorenfe Cuadero
+John Rey Calesa, 
+Lorenfe Cuadero, 
 Vanessa Sagolili
